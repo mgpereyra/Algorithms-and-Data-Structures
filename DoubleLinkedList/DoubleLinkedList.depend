@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729659442 source:c:\users\maxi\desktop\c\doublelinkedlist\doublelinkedlist.c
+	"DoubleLinkedList.h"
+
+1729651565 c:\users\maxi\desktop\c\doublelinkedlist\doublelinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1729657770 source:c:\users\maxi\desktop\c\doublelinkedlist\main.c
+	"DoubleLinkedList.h"
+

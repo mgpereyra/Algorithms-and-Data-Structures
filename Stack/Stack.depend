@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1716061866 source:c:\users\maxi\desktop\c\stack\stack.c
+	"Stack.h"
+
+1716062074 source:c:\users\maxi\desktop\c\stack\main.c
+	"Stack.h"
+
+1716061786 c:\users\maxi\desktop\c\stack\stack.h
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1717192836 source:c:\users\maxi\desktop\c\queue\main.c
+	"Queue.h"
+
+1717192853 c:\users\maxi\desktop\c\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717192932 source:c:\users\maxi\desktop\c\queue\queue.c
+	"Queue.h"
+
+1717192836 source:c:\users\maxi\desktop\operation portfolio\_projects\c\datastructures\queue\main.c
+	"Queue.h"
+
+1717192853 c:\users\maxi\desktop\operation portfolio\_projects\c\datastructures\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1717192932 source:c:\users\maxi\desktop\operation portfolio\_projects\c\datastructures\queue\queue.c
+	"Queue.h"
+
